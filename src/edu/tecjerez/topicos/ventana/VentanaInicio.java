@@ -228,10 +228,10 @@ public class VentanaInicio extends JFrame implements ActionListener{
 	 
 	 
 	 if (e.getSource()==volumenCono) {
-		 double baseC=  Double.parseDouble(radioCono.getText());
+		/* double baseC=  Double.parseDouble(radioCono.getText());
 		 double alturaC =  Double.parseDouble(alturaCono.getText());
 		cono.volumenCono(baseC, alturaC);
-		volumenC.setText(String.valueOf(cono.volumenCono(baseC, alturaC)));
+		volumenC.setText(String.valueOf(cono.volumenCono(baseC, alturaC)));*/
 	}
 	 
 	
